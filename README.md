@@ -1,11 +1,10 @@
 ## Hi there, my name is Astrid 👋
 
-I am a recent graduate in software development from Grand Canyon University and an aspiring application engineer looking for a full-time position in the field. Welcome to my profile!
+I am a recent graduate in software development from Grand Canyon University and work as a software engineer. Welcome to my profile!
 
+- 🚀 I work as a software engineer at [Quintron](https://www.quintron.com/)
 - 🔭 I’m currently working on [MIDI Keys Music Application](https://github.com/astridleighton/MIDI-Keys)
 - 🌱 I’m currently learning Python and Docker
-- 👯 I’m collaborating on the [Mynt Enterprise Stocks Application](https://github.com/Binary-Hive/mynt-documentation)
-- 🤔 I’m looking for a full-time software development position
 - 💻 Take a look at my website: [Astrid's Personal Site](https://astridleighton.github.io)
 - 📫 How to reach me: astridleighton@gmail.com (or any of the contact information below)
 - ⚡ Fun fact: I am an (almost) master bass player
