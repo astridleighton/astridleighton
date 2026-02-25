@@ -2,7 +2,7 @@
 
 I am a recent graduate in software development from Grand Canyon University and work as a software engineer. Welcome to my profile!
 
-- 🚀 I work as a software engineer at [Quintron](https://www.quintron.com/)
+- 🚀 I work as a software engineer at [Aurex Defense](https://aurexdefense.com/)
 - 🔭 I’m currently working on [MIDI Keys Music Application](https://github.com/astridleighton/MIDI-Keys)
 - 🌱 I’m currently learning Python and C++
 - 💻 Take a look at my website: [Astrid's Personal Site](https://astridleighton.github.io)
